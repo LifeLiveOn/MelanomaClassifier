@@ -1,0 +1,6 @@
+/idea
+/venv
+/data
+/model
+/__pycache__
+*.pth
